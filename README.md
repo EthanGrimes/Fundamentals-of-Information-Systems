@@ -1,1 +1,1 @@
-# This repository contains the C# programs I created while taking the Freshman programming class.
+# Collection of student C# programs
